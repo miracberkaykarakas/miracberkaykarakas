@@ -57,7 +57,7 @@
 | [Web Güvenlik Tarayıcı](https://github.com/miracberkaykarakas/web-guvenlik-tarayici) | URL’lerin güvenlik başlıklarını ve SSL bilgisini tarayan Python aracı |
 | [Siber Güvenlik Araç Seti](https://github.com/miracberkaykarakas/siber-guvenlik-arac-seti) | Şifre güç analizi ve hash hesaplama araçları |
 
-*Repo isimlerini kendi GitHub’ındaki adlarla değiştirmeyi unutma.*
+👉 [Tüm repolarım](https://github.com/miracberkaykarakas?tab=repositories)
 
 ---
 
@@ -75,7 +75,7 @@
 
 ![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=miracberkaykarakas&layout=compact&theme=default&hide_border=true)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=miracberkaykarakas&theme=default&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=miracberkaykarakas&theme=default&hide_border=true)
 
 ---
 
@@ -86,8 +86,6 @@
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miracberkaykarakas)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miracberkaykarakas@gmail.com)
 
-*Linkleri kendi profillerinle değiştir; kullanmadıklarını silebilirsin.*
-
 ---
 
-*Son güncelleme: 2025*
+*Son güncelleme: Şubat 2025*
