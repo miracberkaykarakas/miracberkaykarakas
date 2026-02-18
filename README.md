@@ -100,6 +100,6 @@ Eğitim projeleri ve araçlar üzerine çalışıyorum.
 
 [GitHub](https://github.com/miracberkaykarakas) · [LinkedIn](https://www.linkedin.com/in/mira%C3%A7-berkay-karaka%C5%9F-41036b314) · [Instagram](https://www.instagram.com/miracberkaykarakas/) · [E‑posta](mailto:karakasmiracberkay80@gmail.com)
 
-*Şubat 2025*
+*Şubat 2026*
 
 </div>
